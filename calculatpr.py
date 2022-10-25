@@ -1,4 +1,3 @@
-
 from PySide6.QtWidgets import QWidget,QApplication
 from PySide6.QtUiTools import QUiLoader
 from functools import partial
